@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito extra, promovido pela Rocketseat para ensino de tec
 <br>
 
 <p align="center">
-  <img alt="Projeto 01 - Explorer" src="preview.jpg" width="100%">
+  <img alt="Projeto 01 - Explorer" src="img/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
